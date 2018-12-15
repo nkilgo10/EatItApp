@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1060500342484",
+    "firebase_url": "https://android-eat-it-1cffc.firebaseio.com",
+    "project_id": "android-eat-it-1cffc",
+    "storage_bucket": "android-eat-it-1cffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060500342484:android:527c95ad92ad8dc3",
+        "android_client_info": {
+          "package_name": "com.example.angelaverano.eatitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060500342484-9e4fbbrp9kc7uelhg6k8re2ceuth9qu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoo52MB1DNOoSTMz_kYdTiqh22y2mq8uQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
